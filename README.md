@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on WhatsApp/messanger/skype
-- 📫 How to reach me: FB-(MAH Shazal), email-ah113395@gmail.com
+- 📫 How to reach me: email-ah113395@gmail.com
 
 <!---
 MAH-Shazal/MAH-Shazal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
